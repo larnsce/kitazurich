@@ -35,6 +35,10 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(kitazurich)
+
 ## basic example code
+kitas |> 
+  head() |> 
+  knitr::kable()
 ```
 
