@@ -1,0 +1,6 @@
+variable_name, description
+Jahr, Jahr: Stichtag jeweils am 31. Dezember.
+Anz_Kinder_VA, Anzahl Kinder im Vorschulalter. Diese Zahl wird folgendermassen ermittelt: alle Kinder zwischen 0 und 4 Jahren sowie 10 % der Kinder zwischen 5 und 6 Jahren.
+Anz_BP, Anzahl Betreuungsplätze in bewilligten Kitas in der Stadt Zürich.
+Anz_BP_priv_Kitas_mK, Anzahl private Kitas mit Kontrakt mit der Stadt die subventionierte Betreuungsplätze anbieten können.
+Anz_subv_BP_Kitas_mK, Effektiv belegte subventionierte Betreuungsplätze in Kitas mit Kontrakt.
